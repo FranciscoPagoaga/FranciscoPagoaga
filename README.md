@@ -1,3 +1,5 @@
+### Hi there 👋, my name is Francisco Pagoaga
+I'm currently in my 4th year in Software Engineering. I like videogames and also web development, using the MERN stack. I'm always open for trying new technologies and try to be language-agnostic
 <h2 align="center">You can reach me at </h2>
 
 <p align="center">
@@ -24,4 +26,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoPagoaga&show_icons=true&theme=synthwave" alt="FranciscoPagoaga :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://gfycat.com/activesplendidafricanfisheagle" alt="Synthwave" height="300" width="500"></p>
