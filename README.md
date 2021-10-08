@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2 align="center">You can reach me at </h2>
 
-<!--
-**FranciscoPagoaga/FranciscoPagoaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/f.pagoaga/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Francisco Pagoaga's Instagram" height="30" width="30">
+  </a>
+  
+  <a href="https://twitter.com/Fran_Pagoaga">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Francisco Pagoaga's Twitter" height="30" width="30">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Github stats :bar_chart:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{FranciscoPagoaga}/count.svg" alt="FranciscoPagoaga :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs </h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPagoaga&langs_count=10&theme=tokyonight&layout=compact" alt="FranciscoPagoaga :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoPagoaga&show_icons=true&theme=synthwave" alt="FranciscoPagoaga :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
