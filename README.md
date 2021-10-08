@@ -26,4 +26,4 @@ I'm currently in my 4th year in Software Engineering. I like videogames and also
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoPagoaga&show_icons=true&theme=synthwave" alt="FranciscoPagoaga :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/ActiveSplendidAfricanfisheagle-mobile.mp4" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://gfycat.com/adoredbewitchedape" alt="Synthwave" height="300" width="500"></p>
