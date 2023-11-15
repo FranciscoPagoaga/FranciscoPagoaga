@@ -1,25 +1,54 @@
-### Hi there 👋, my name is Francisco Pagoaga
-I'm currently in my 4th year in Software Engineering. I like videogames and also web development, using the MERN stack. I'm always open for trying new technologies and try to be language-agnostic
-<h2 align="center">You can reach me at </h2>
+<h2> Hey there! I'm Aditya.</h2>
 
-<p align="center">
-  <a href="https://www.instagram.com/f.pagoaga/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Francisco Pagoaga's Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://twitter.com/Fran_Pagoaga">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Francisco Pagoaga's Twitter" height="30" width="30">
-  </a>
-</p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studied Software Engineering at Universidad Tecnológica Centroamericana.
+- 💼 &nbsp; Working as a Junior Backend Engineer at N1co.
+- 🌱 &nbsp; Learning more about Systems Design and Design Patterns.
 
-<h4 align="center">Top langs </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPagoaga&langs_count=10&theme=tokyonight&layout=compact" alt="FranciscoPagoaga :: Top Langs" /></p>
+<h3> 🛠 &nbsp;My Skill Set</h3>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- 📱 &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoPagoaga&show_icons=true&theme=synthwave" alt="FranciscoPagoaga :: Profile Stats" /></p>
+</div>
+</div>
 
-<p align="center"><img src="https://thumbs.gfycat.com/ActiveSplendidAfricanfisheagle-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<br/>  
+
+![]()  
+
+![]()  
+
+![]()  
+
+<div align="center">
+<a href="https://www.linkedin.com/in/francisco-pagoaga-444b0a238/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
