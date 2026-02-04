@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Software Engineering at Universidad Tecnológica Centroamericana.
-- 💼 &nbsp; Working as a Junior Backend Engineer at N1co.
+- 💼 &nbsp; Working as a Moible Engineer at N1co.
 - 🌱 &nbsp; Learning more about Systems Design and Design Patterns.
 
 
